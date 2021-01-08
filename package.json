@@ -1,0 +1,19 @@
+{
+  "name": "discordbot-base",
+  "version": "1.0.0",
+  "description": "Bot de discord para iniciar básico",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "discord",
+    "discordjs",
+    "discordbot"
+  ],
+  "author": "Pepe",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}

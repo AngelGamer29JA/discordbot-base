@@ -1,0 +1,1 @@
+npm i && echo "npm start" >> start.bat
